@@ -1,7 +1,7 @@
 package main
 
 import (
-	"yoyoSystem"
+	"./yoyoSystem"
 	"context"
 	"fmt"
 	"log"
